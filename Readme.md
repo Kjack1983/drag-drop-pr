@@ -1,6 +1,6 @@
 ## Summary
 
-Aim of this project is to make use of drag and drop properties. Drag and drop project folders.
+Aim of this project is to make use of drag and drop projects and move projects from active to finished projects.
 
 ![drag-drop-pr](/src/screenshots/screenshot_1.png?raw=true "images")
 
